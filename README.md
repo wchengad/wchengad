@@ -15,6 +15,6 @@
 - Previously, I worked at Tencent, SenseTime, and Shanghai AI Lab.
 
 
-| [**DNA-Rendering**](https://github.com/DNA-Rendering/DNA-Rendering/) | [**RenderMe-360**](https://github.com/RenderMe-360/RenderMe-360) | [**MeshXL**](https://github.com/OpenMeshLab/MeshXL) | 
+| [**DNA-Rendering**](https://dna-rendering.github.io/) | [**GNR**](https://github.com/generalizable-neural-performer/gnr) | [**MeshXL**](https://github.com/OpenMeshLab/MeshXL) | 
 | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
-| <video src="https://github.com/DNA-Rendering/DNA-Rendering/assets/136057575/a6b3d561-38a1-4323-8c9a-ab4fa3e8f227" /> |    <video src="https://github.com/RenderMe-360/RenderMe-360/assets/132734896/0daa921a-93c7-4ddc-9b73-0f2974cbb523" />  | <video src="https://github.com/user-attachments/assets/4f6cfa4f-498b-4511-8e84-d2cc3ecd12e7" />  |
+| <image src="https://github.com/user-attachments/assets/cba869f4-2c28-432d-a459-f9531b4ab08b" /> |    <image src="https://github.com/user-attachments/assets/6e776475-c5a3-42a5-8a61-e28c5bccaed5" />  | <image src="https://github.com/user-attachments/assets/4833026d-bde4-4cf6-9681-1904ede2f87e" />  |
