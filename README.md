@@ -5,10 +5,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=wchengad&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wei Cheng's github stats" />
 </a>
 
-[![Home](https://img.shields.io/badge/Home%20Page-white?labelColor=white&logo=GoogleHome&logoColor=black)](https://wchengad.github.io/)
+
 [![Twitter: wchengad](https://img.shields.io/twitter/follow/wchengad?style=social)](https://twitter.com/wchengad)
 [![GitHub wchengad](https://img.shields.io/github/followers/wchengad?label=follow&style=social)](https://github.com/wchengad)
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-white?labelColor=white&logo=GoogleScholar&logoColor=black)](https://scholar.google.com.hk/citations?user=OC8eBkYAAAAJ&hl=en)
+[![Home](https://img.shields.io/badge/Home%20Page-ceb15a?labelColor=ceb15a&logo=homeadvisor&logoColor=white)](https://wchengad.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?user=OC8eBkYAAAAJ&hl=en)
 
 - I’m a Researcher at StepFun, Shanghai, China.
 - I’m currently working on **Personalized Generation**, **3D Generative AI**, **Digital Human and Neural Rendering**.
