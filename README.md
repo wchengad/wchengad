@@ -13,7 +13,7 @@
 
 - I’m a Researcher at StepFun, Shanghai, China.
 - I’m currently working on **Personalized Generation**, **3D Generative AI**, **Digital Human and Neural Rendering**.
-- Previously, I worked at ![Tencent QQ Badge](https://img.shields.io/badge/Tencent-1EBAFC?logo=tencentqq&logoColor=fff&style=for-the-badge) ![SenseTime Badge](https://img.shields.io/badge/SeneseTime-red?logo=apachesuperset&logoColor=fff&style=for-the-badge) ![DJI Badge](https://img.shields.io/badge/DJI-black?logo=dji&logoColor=fff&style=for-the-badge).
+- Previously, I worked at [![Tencent QQ Badge](https://img.shields.io/badge/Tencent-1EBAFC?logo=tencentqq&logoColor=fff&style=for-the-badge)](https://www.tencent.com/en-us/) [![SenseTime Badge](https://img.shields.io/badge/SeneseTime-red?logo=apachesuperset&logoColor=fff&style=for-the-badge)](https://www.sensetime.com/en) [![DJI Badge](https://img.shields.io/badge/DJI-black?logo=dji&logoColor=fff&style=for-the-badge)](https://www.dji.com/).
 
 
 | [**DNA-Rendering**](https://dna-rendering.github.io/) | [**GNR**](https://github.com/generalizable-neural-performer/gnr) | [**MeshXL**](https://github.com/OpenMeshLab/MeshXL) | 
