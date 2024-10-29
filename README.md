@@ -17,6 +17,6 @@
 
 | [**MVPaint**](https://mvpaint.github.io/) |  [**MeshXL**](https://github.com/OpenMeshLab/MeshXL) | 
 | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
-| <image src="https://github.com/user-attachments/assets/4833026d-bde4-4cf6-9681-1904ede2f87e" />  | <image src="https://github.com/user-attachments/assets/4833026d-bde4-4cf6-9681-1904ede2f87e" />  |
+| <image src="https://github.com/user-attachments/assets/fe4dbac2-10fa-4183-8276-81a1b5c65811" />  | <image src="https://github.com/user-attachments/assets/4833026d-bde4-4cf6-9681-1904ede2f87e" />  |
 | [**DNA-Rendering**](https://dna-rendering.github.io/) | [**GNR**](https://github.com/generalizable-neural-performer/gnr) |
 | <image src="https://github.com/user-attachments/assets/cba869f4-2c28-432d-a459-f9531b4ab08b" /> |    <image src="https://github.com/user-attachments/assets/6e776475-c5a3-42a5-8a61-e28c5bccaed5" />  |
