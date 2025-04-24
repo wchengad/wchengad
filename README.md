@@ -17,6 +17,6 @@
 
 | [**Step1X-Edit**](https://github.com/stepfun-ai/Step1X-Edit) | [**OmniSVG**](https://omnisvg.github.io/) | [**MVPaint**](https://mvpaint.github.io/) |
 | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
-| <image src="./assets/Step1X-Edit.gif" /> | <image src="./assets/OmniSVG.gif" /> | <image src="https://github.com/user-attachments/assets/fe4dbac2-10fa-4183-8276-81a1b5c65811" /> |
+| <image src="./assets/Step1X-Edit.gif" /> | <image src="./assets/OmniSVG.gif" /> | <image src="assets/MVPaint.gif" /> |
 | [**MeshXL**](https://github.com/OpenMeshLab/MeshXL) | [**DNA-Rendering**](https://dna-rendering.github.io/) | [**GNR**](https://github.com/generalizable-neural-performer/gnr) |
-| <image src="https://github.com/user-attachments/assets/4833026d-bde4-4cf6-9681-1904ede2f87e" /> | <image src="https://github.com/user-attachments/assets/cba869f4-2c28-432d-a459-f9531b4ab08b" /> | <image src="https://github.com/user-attachments/assets/6e776475-c5a3-42a5-8a61-e28c5bccaed5" /> |
+| <image src="./assets/MeshXL.gif" /> | <image src="./assets/DNA-Rendering.gif" /> | <image src="./assets/GNR.gif" /> |
