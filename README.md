@@ -2,7 +2,7 @@
 <h2> Hi, I'm Wei Cheng <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <a href="#wchengaa-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=wchengad&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wei Cheng's github stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=wchengaa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wei Cheng's github stats" />
 </a>
 
 
