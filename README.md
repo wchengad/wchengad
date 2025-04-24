@@ -1,13 +1,14 @@
 
 <h2> Hi, I'm Wei Cheng <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<a href="#wchengaa-title">
+<!-- <a href="#wchengaa-title">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=wchengad&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wei Cheng's github stats" />
-</a>
+</a> -->
 
 
 [![Twitter: wchengad](https://img.shields.io/twitter/follow/wchengad?style=social)](https://twitter.com/wchengad)
 [![GitHub wchengad](https://img.shields.io/github/followers/wchengad?label=follow&style=social)](https://github.com/wchengad)
+![wchengad's GitHub Stars](https://img.shields.io/github/stars/wchengad?affiliations=OWNER%2CCOLLABORATOR&style=social)
 [![Home](https://img.shields.io/badge/Home%20Page-ceb15a?labelColor=ceb15a&logo=homeadvisor&logoColor=white)](https://wchengad.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?user=OC8eBkYAAAAJ&hl=en)
 
