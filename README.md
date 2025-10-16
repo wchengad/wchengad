@@ -20,8 +20,8 @@
 - Working on **Personalized Generation**, **3D Generative AI**, **Digital Human and Neural Rendering**.
 - Previously, I worked at [![Tencent QQ Badge](https://img.shields.io/badge/Tencent-1EBAFC?logo=qq&logoColor=fff&style=for-the-badge)](https://www.tencent.com/en-us/) [![SenseTime Badge](https://img.shields.io/badge/SeneseTime-red?logo=apachesuperset&logoColor=fff&style=for-the-badge)](https://www.sensetime.com/en).
 
-| [**Step1X-Edit**](https://github.com/stepfun-ai/Step1X-Edit) | [**OmniSVG**](https://omnisvg.github.io/) | [**MVPaint**](https://mvpaint.github.io/) |
+| [**Step1X-Edit**](https://github.com/stepfun-ai/Step1X-Edit) | [**OmniSVG**](https://omnisvg.github.io/) | [**WithAnyOne**](https://doby-xu.github.io/WithAnyone/) |
 | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
-| <image src="./assets/Step1X-Edit.gif" /> | <image src="./assets/OmniSVG.gif" /> | <image src="assets/MVPaint.gif" /> |
-| [**MeshXL**](https://github.com/OpenMeshLab/MeshXL) | [**DNA-Rendering**](https://dna-rendering.github.io/) | [**GNR**](https://github.com/generalizable-neural-performer/gnr) |
-| <image src="./assets/MeshXL.gif" /> | <image src="./assets/DNA-Rendering.gif" /> | <image src="./assets/GNR.gif" /> |
+| <image src="./assets/Step1X-Edit.gif" /> | <image src="./assets/OmniSVG.gif" /> | <image src="assets/withanyone.gif" /> |
+| [**MVPaint**](https://mvpaint.github.io/) | [**MeshXL**](https://github.com/OpenMeshLab/MeshXL) | [**DNA-Rendering**](https://dna-rendering.github.io/) |
+| <image src="assets/MVPaint.gif" /> | <image src="./assets/MeshXL.gif" /> | <image src="./assets/DNA-Rendering.gif" /> |
